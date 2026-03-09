@@ -9,6 +9,10 @@ import { RouterView } from 'vue-router'
 </template>
 
 <style scoped>
+.wrapper {
+  width: 100%;
+}
+
 header {
   line-height: 1.5;
   max-height: 100vh;
